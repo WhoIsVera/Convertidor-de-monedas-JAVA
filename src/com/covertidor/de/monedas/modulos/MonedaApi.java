@@ -1,4 +1,17 @@
 package com.covertidor.de.monedas.modulos;
 
-public record MonedaApi( String conversion_rates) {
+
+import java.util.Map;
+
+public record MonedaApi(String result,
+                        String base_code,
+                        Map<String, Double> conversion_rates
+                         ) {
+
+    //metodo de instancia
+    public Map<String, Double> conversionRates(){
+        return conversion_rates;
+    }
+
+
 }
