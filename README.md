@@ -7,7 +7,6 @@ Una aplicación simple y eficiente que permite a los usuarios convertir entre va
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Contribuir](#contribuir)
-- [Licencia](#licencia)
 - [Contacto](#contacto)
 
 ## Descripción
