@@ -28,7 +28,7 @@ Para comenzar con el Convertidor de Monedas, sigue estos pasos:
    npm install
 
 3. Configura las claves de API:*
-   Regístrate para obtener una cuenta gratuita en un proveedor de API de tasas de cambio (por ejemplo, Open Exchange Rates, Fixer).*
+   Regístrate para obtener una cuenta gratuita en un proveedor de API de tasas de cambio (por ejemplo, Open Exchange Rates, Fixer).  
    Crea un archivo .env en el directorio raíz y añade tu clave de API:
     ```sh
     API_KEY=tu_clave_de_api_aquí
@@ -39,10 +39,10 @@ Para comenzar con el Convertidor de Monedas, sigue estos pasos:
 Uso
 Para usar el Convertidor de Monedas, sigue estos pasos:
 
-Abre la aplicación en tu navegador.*
-Selecciona las monedas que deseas convertir.*
-Ingresa el monto que deseas convertir.*
-Haz clic en el botón "Convertir" para ver el monto convertido.*
+Abre la aplicación en tu navegador.  
+Selecciona las monedas que deseas convertir.  
+Ingresa el monto que deseas convertir.  
+Haz clic en el botón "Convertir" para ver el monto convertido.  
 Ejemplo de uso:
     ```sh
   # Convertir 100 USD a EUR  
@@ -52,15 +52,15 @@ Ejemplo de uso:
 Contribuir
 ¡Las contribuciones son bienvenidas! Para contribuir, sigue estos pasos:
 
-Haz un fork del repositorio.*
-Crea una nueva rama (git checkout -b rama-de-caracteristica).*
-Realiza tus cambios y haz un commit (git commit -m 'Agregar nueva característica').*
-Haz push a la rama (git push origin rama-de-caracteristica).*
-Abre un Pull Request.*
-Por favor, asegúrate de actualizar las pruebas según sea necesario.*
+Haz un fork del repositorio.  
+Crea una nueva rama (git checkout -b rama-de-caracteristica).  
+Realiza tus cambios y haz un commit (git commit -m 'Agregar nueva característica').  
+Haz push a la rama (git push origin rama-de-caracteristica).  
+Abre un Pull Request.  
+Por favor, asegúrate de actualizar las pruebas según sea necesario.  
 
 Contacto
-Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto:*
+Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto:  
 
-Email: ev765030@gmail.com*
-GitHub: WhoIsVera*
+Email: ev765030@gmail.com  
+GitHub: WhoIsVera  
