@@ -44,7 +44,7 @@ Selecciona las monedas que deseas convertir.
 Ingresa el monto que deseas convertir.  
 Haz clic en el botón "Convertir" para ver el monto convertido.  
 Ejemplo de uso:
-    ```sh
+    
   # Convertir 100 USD a EUR  
       convertir 100 USD a EUR
 
